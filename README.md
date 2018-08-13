@@ -1,7 +1,6 @@
 
 
-Smart Contract
-Smart Contract written.
+Test
 
 Getting Started
 Please install  and initialize your project.
